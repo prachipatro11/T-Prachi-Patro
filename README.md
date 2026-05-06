@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm T Prachi Patro</h1>
-<h3 align="center">A passionate Prompt Engineer from India</h3>
+<h3 align="center">A passionate Engineer and designer from India</h3>
 
-- 🔭 I’m currently working on **Rice Leaf Disease Prediction Using Lightweight Federated Learning**
+- 🔭 I’m currently working on **How the data analysis in real time and how it predicts**
 
-- 🌱 I’m currently learning **CoT (Chain of Thought Prompting), Zero-shot & Few-shot Prompting, RAG (Retrieval Augmented Generation), Persona & Role Prompting**
+- 🌱 I’m currently adapting **Machine learning, prompt engineering, data visualization**
 
 - 📫 How to reach me **prachipatro11@gmail.com**
 
